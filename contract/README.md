@@ -12,4 +12,4 @@ npx hardhat node
 npx hardhat run scripts/deploy.js
 ```
 
-npx hardhat run scripts/deploy.js --network polygon_mumbai
+npx hardhat run scripts/deploy.js --network localhost
