@@ -3,6 +3,10 @@
 
 To deploy backend scripts follow these tasks:
 
+```bash
+npm install
+```
+
 ```shell
 npx hardhat help
 npx hardhat test
